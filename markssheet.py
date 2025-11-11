@@ -22,5 +22,5 @@ else:
 avg = sum(marks) / 5
 grade = get_grade(avg)
 
-print(f"\nAverage Marks =" {avg:.2f})
-print(f"Grade = "{grade})
+print(f"\nAverage Marks = {avg:.2f}")
+print(f"Grade = {grade}")
